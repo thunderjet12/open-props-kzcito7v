@@ -1,0 +1,9 @@
+.box {
+  cursor: pointer;
+  height: 6rem;
+  width: 6rem;
+  border-radius: 0.375rem;
+  background-color: #6366f1;
+
+  animation: var(--animation-scale-down) reverse;
+}

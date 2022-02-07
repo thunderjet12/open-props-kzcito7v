@@ -1,0 +1,9 @@
+.box {
+  block-size: 100px;
+  max-inline-size: var(--max-inline-body);
+  border-width: 2px;
+}
+
+[id^='_checkered'] {
+  display: none;
+}
